@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o João Vital (Zyr) 👋
 
-<!--
-**JoaoVitalPortugal/JoaoVitalPortugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante focado em Backend, no desenvolvimento de aplicações eficientes, automações inteligentes e integração com Inteligência Artificial.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+### 📌 Sobre mim
+
+* 🔭 **Foco atual:** Estudos em Desenvolvimento Backend com Python e Golang.
+* 🤖 **Interesses:** Automação de processos e Inteligência Artificial.
