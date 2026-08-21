@@ -33,4 +33,4 @@ Estudante e desenvolvedor focado em Backend, criação de ferramentas eficientes
 
 ### 📬 Vamos nos conectar!
 
-* 💬 **Discord:** `jovenzinho23`
+* 💬 **Discord:** `thezyr1`
